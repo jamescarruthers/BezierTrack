@@ -5,7 +5,7 @@ A KiCad plug in to bezier tracks.
 Takes a standard track and turns it in to baked bezier curves.
 
 Instructions
-1. Select a single track
+1. Select a single track (click on a single segment and press i)
 2. Run plugin
 
 
