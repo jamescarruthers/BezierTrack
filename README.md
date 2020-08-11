@@ -1,6 +1,6 @@
 # BezierTrack KiCad Plugin
 
-A KiCad plug in to bezier tracks.
+A KiCad plugin to bezier tracks.
 
 Takes a standard track and turns it in to baked bezier curves.
 
