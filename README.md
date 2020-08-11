@@ -1,4 +1,4 @@
-# BezierTrack
+# BezierTrack KiCad Plugin
 
 A KiCad plug in to bezier tracks.
 
