@@ -4,6 +4,7 @@ A KiCad plug in to bezier tracks.
 
 Takes a standard track and turns it in to baked bezier curves.
 
+![Example](example.png)
 
 To-do:
 * automatically calculate number of points based on distance of bezier
